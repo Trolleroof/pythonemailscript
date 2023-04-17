@@ -1,1 +1,1 @@
-lol this sucks
+Python email sender program
